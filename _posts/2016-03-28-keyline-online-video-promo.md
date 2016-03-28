@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://vimeo.com/110394319'
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-28T03:17:25.873Z'
-dateModified: '2016-03-28T03:17:02.520Z'
+description: 'We produce dynamic online video for organisations around the world. We work collaboratively with businesses, associations and charities to create innovative and cost-effective content, including online promos, event films, explainer videos, executive interviews, webinars and live broadcasts.   ONLINE VIDEO CONTENT Connect with customers Share your expertise Promote your brand Reach new markets Tell your story Keyline has a global network of filmmakers and content developers with years of experience across a wide range of corporate video, documentaries, short films, commercials and pop promos.  See a selection of our recent projects…'
+datePublished: '2016-03-28T03:37:45.510Z'
+dateModified: '2016-03-28T03:37:39.239Z'
 author:
   - name: Keyline
     url: 'http://vimeo.com/keyline'
@@ -41,7 +41,7 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: ''
+title: WE ARE KEYLINE
 sourcePath: _posts/2016-03-28-keyline-online-video-promo.md
 published: true
 authors: []
