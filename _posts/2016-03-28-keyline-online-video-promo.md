@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-28T03:02:29.177Z'
-dateModified: '2016-03-28T03:01:38.834Z'
+datePublished: '2016-03-28T03:16:53.973Z'
+dateModified: '2016-03-28T03:16:34.548Z'
 author:
   - name: Keyline
     url: 'http://vimeo.com/keyline'
@@ -54,6 +54,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F110394319&amp;url=https%3A%2F%2Fvimeo.com%2F110394319&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F494811430_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0cff365-cfe3-4920-b7ee-319c8505904a.png)
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F110394319&amp;url=https%3A%2F%2Fvimeo.com%2F110394319&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F494811430_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
