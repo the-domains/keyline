@@ -4,7 +4,7 @@
         <description><![CDATA[Keyline]]></description>
         <link>https://thegrid.ai/keyline/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 03:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 04:21:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/keyline/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WE ARE KEYLINE]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/110394319</link>
             <guid isPermaLink="false">2fbf8879-a269-403a-9ece-14e01ce3aeb1</guid>
             <pubDate>Mon, 28 Mar 2016 03:43:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WE ARE KEYLINE]]></title>
+            <description><![CDATA[<h1>WE ARE KEYLINE</h1>]]></description>
+            <link>https://thegrid.ai/keyline/we-are-keyline/index.html</link>
+            <guid isPermaLink="false">83302683-fa77-487b-a9f3-cce8952b2e1e</guid>
+            <pubDate>Mon, 28 Mar 2016 04:21:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
